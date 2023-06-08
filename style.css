@@ -2,48 +2,56 @@ html {
     height: 100%;
 }
 body {
-    min-height: 100vh;
-    max-width: 600px;
-    margin: 0 auto;
+    min-height: 150vh;
+    max-width: 110 vh;
+    border: solid;
+    border-color:
+    
 }
 
 div#zcmain { 
     display: block;
-    margin-left: 300px;
+    text-align: center;
+    margin-left: 35px;
+    margin-right: 35px;
     margin-top: 100px;
-    font-size: 50px;    
+    font-size: 25px; 
+    border: solid;
+    border-color: 
 }
 
 div#zcsecond {
     display: block;
-    margin-left: 265px;
+    margin-left: 170px;
+    margin-right: 170px;
     margin-top: 50px;
     font-size: 21px;
+    
 }
 
 img#itsme {
     display: block;
-    margin-left: -100px;
-    margin-top: -150px;
+    margin-left: 270px;
+    margin-top: 50px;
     height: 300px;
     width: 300px;
 }
 
 a#linkedin {
     display: block;
-    margin-left: 300px;
-    margin-top: -100px;
+    margin-left: 265px;
+    margin-top: 50px;
 }
 
 a#github {
     display: block;
-    margin-left: 470px;
+    margin-left: 475px;
     margin-top: -101px;
 }
 
 div#aboutzc {
     display: block;
-    margin-left: 380px;
+    margin-left: 360px;
     margin-top: 45px;
     font-size: 30px;
     
@@ -52,20 +60,22 @@ div#aboutzc {
 div#aboutmeparagraph {
     display: block;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 00px;
     margin-top: 30px;
     font-size: 20px;
+    
+    
 }
 
 div#zceducation {
     display: block;
-    margin-left: 5px;
-    margin-top: -246px;
+    margin-left: 370px;
+    margin-top: 120px;
     font-size: 30px;
 }
 
 ul#educationlist {
     display: block;
-    margin-left: -100px;
+    margin-left: 270px;
 }
 
