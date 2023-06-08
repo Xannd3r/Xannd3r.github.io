@@ -1,70 +1,57 @@
-#wsbody {
-    margin: -10px;
+html {
+    height: 100%;
 }
-#itsme {
-    position: relative;
-    left: 3%;
-}
-
-#zcmain  {   
-    position: relative;
-    left: 46%;
-    top: 130px;
-    font-size: 300%;   
+body {
+    min-height: 100vh;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
-#zcsecond {
-    position: relative;
-    left: 40%;
-    top: 130px;
-    font-size: 150%;
+div#zcmain { 
+    display: block;
+    margin-left: 300px;
+    margin-top: 100px;
+    font-size: 50px;    
 }
 
-#linkedin {
-    position: relative;
-    left: 15%;
+div#zcsecond {
+    display: block;
+    margin-left: 265px;
+    margin-top: 50px;
+    font-size: 21px;
 }
 
-#github {
-    position: relative;
-    left: 25%;
+img#itsme {
+    display: block;
+    margin-left: -100px;
+    margin-top: -150px;
+    height: 400px;
+    width: 300px;
 }
 
-#aboutzc {
-    position: relative;
-    left: 40%;
-    top: 50px;
-    font-size: 250%;
+a#linkedin {
+    display: block;
+    margin-left: 300px;
+    margin-top: -150px;
 }
 
-#aboutmeparagraph  {
-    position: relative;
-    text-align: center;
-    left: 0%;
-    top: 56px;
-    font-size: 150%;
+a#github {
+    display: block;
+    margin-left: 470px;
+    margin-top: -100px;
 }
 
-#zceducation {
-    position: relative;
-    left: 20%;
-    top: 70px;
+div#aboutzc {
+    display: block;
+    margin-left: 400px;
+    margin-top: 90px;
+    font-size: 30px;
+    
 }
 
-#educationlist {
-    position: relative;
-    left: 5%;
-    top: 80px;
-}
-
-#zcskills {
-    position: relative;
-    left: 70%;
-    top: -153px;
-}
-
-#skillslist {
-    position: relative;
-    left: 63%;
-    top: -130px;
+div#aboutmeparagraph {
+    display: block;
+    margin-left: 350px;
+    margin-top: 90px;
+    font-size: 25px;
 }
