@@ -1,83 +1,61 @@
 html {
     height: 100%;
+    width: 100%;
 }
 body {
     min-height: 100%;
     max-width: 100%;
     border: solid;
-    
 }
-    
 
-
-div#zcmain { 
+div#zakkheadings {
     display: block;
+    position: static;
+    margin-top: 15%;
+    margin-left: 0%;
     text-align: center;
-    margin-left: 35px;
-    margin-right: 35px;
-    margin-top: 10px;
-    font-size: 25px; 
-    border: solid;
-     
-    
 }
 
-div#zcsecond {
+img#zakkpic {
     display: block;
-    margin-left: 170px;
-    margin-right: 170px;
-    margin-top: 50px;
-    font-size: 21px;
-    
+    position: static;
+    margin-top: 10%;
+    margin-left: 35%;  
 }
 
-img#itsme {
+div#zakklinks {
     display: block;
-    margin-left: 270px;
-    margin-top: 50px;
-    height: 300px;
-    width: 300px;
+    position: static;
+    margin-top: 5%;
+    margin-left: 38%;
 }
 
-a#linkedin {
+h1#zakkabout {
     display: block;
-    margin-left: 265px;
-    margin-top: 50px;
-}
-
-a#github {
-    display: block;
-    margin-left: 475px;
-    margin-top: -101px;
-}
-
-div#aboutzc {
-    display: block;
-    margin-left: 360px;
-    margin-top: 45px;
-    font-size: 30px;
-    
-}
-
-div#aboutmeparagraph {
-    display: block;
+    position: static;
     text-align: center;
-    margin-left: 00px;
-    margin-top: 30px;
-    font-size: 20px;
-    
-    
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
-div#zceducation {
+h1#zakkeducation {
     display: block;
-    margin-left: 370px;
-    margin-top: 100px;
-    font-size: 30px;
+    position: static;
+    text-align: center;
 }
 
-ul#educationlist {
+p {
     display: block;
-    margin-left: 270px;
+    position: static;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+
 }
 
+h4 {
+    display: block;
+    position: static;
+    text-align: center;
+}
