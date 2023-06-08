@@ -25,33 +25,47 @@ img#itsme {
     display: block;
     margin-left: -100px;
     margin-top: -150px;
-    height: 400px;
+    height: 300px;
     width: 300px;
 }
 
 a#linkedin {
     display: block;
     margin-left: 300px;
-    margin-top: -150px;
+    margin-top: -100px;
 }
 
 a#github {
     display: block;
     margin-left: 470px;
-    margin-top: -100px;
+    margin-top: -101px;
 }
 
 div#aboutzc {
     display: block;
-    margin-left: 400px;
-    margin-top: 90px;
+    margin-left: 380px;
+    margin-top: 45px;
     font-size: 30px;
     
 }
 
 div#aboutmeparagraph {
     display: block;
-    margin-left: 350px;
-    margin-top: 90px;
-    font-size: 25px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 30px;
+    font-size: 20px;
 }
+
+div#zceducation {
+    display: block;
+    margin-left: 5px;
+    margin-top: -246px;
+    font-size: 30px;
+}
+
+ul#educationlist {
+    display: block;
+    margin-left: -100px;
+}
+
