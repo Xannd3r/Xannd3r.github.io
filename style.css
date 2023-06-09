@@ -2,9 +2,11 @@
 
 body {
     min-height: auto;
-    max-width: auto;
+    max-width: 600px;
     border-style: double;
     padding: 60px;
+    margin-left: auto;
+    margin-right:auto;
     
 }
 
