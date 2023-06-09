@@ -14,10 +14,11 @@ div#zakkheadings {
     text-decoration: solid;
 }
 
-div#zakkpic {
+img#zakkpic {
     display: block;
     position: static;
-    margin-right: 250px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 div#zakklinks {
