@@ -19,15 +19,14 @@ div#zakkheadings {
 img#zakkpic {
     display: block;
     position: static;
-    margin-top: 10%;
-    margin-left: 35%;  
+    margin-inline-start: 35%;  
 }
 
 div#zakklinks {
     display: block;
     position: static;
-    margin-top: 5%;
-    margin-left: 38%;
+    margin-inline-start: 37.5%;
+    margin-top: 10%;
 }
 
 h1#zakkabout {
