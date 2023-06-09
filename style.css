@@ -14,11 +14,10 @@ div#zakkheadings {
     display: block;
     position: static;
     margin-top: 15%;
+    margin-bottom: 15%;
     text-align: center;
     text-decoration: solid;
 }
-
-
 
 div#zakklinks {
     display: block;
@@ -28,5 +27,9 @@ div#zakklinks {
     
 }
 
+div#zakkabout {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
 
 
