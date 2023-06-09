@@ -1,11 +1,12 @@
-body {
-    padding: auto;
+
+#body {
+    padding: 100%;
     scale: auto;
     height: auto;
-    width: 800px;
+    width: auto;
     border: 6px;
     border-style: double;
-    margin: 10px;
+    margin: 50px;
 }
 
 div#zakkheadings {   
