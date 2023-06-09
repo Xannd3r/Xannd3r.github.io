@@ -1,18 +1,15 @@
-html {
-    height: 100%;
-    width: 100%;
-}
+
+
 body {
-    min-height: 100%;
-    max-width: 70%;
-    margin: 300px;
-    border: solid;
+    min-height: 500px;
+    max-width: 900px;
+    
 }
 
 div#zakkheadings {
     display: block;
     position: static;
-    margin-top: 15%;
+    margin-top: 20%;
     margin-left: 0%;
     text-align: center;
 }
@@ -20,14 +17,16 @@ div#zakkheadings {
 img#zakkpic {
     display: block;
     position: static;
-    margin-inline-start: 50%;  
+    margin-left: 320px;
+    margin-top: 90px;  
 }
 
 div#zakklinks {
     display: block;
     position: static;
-    margin-inline-start: 45%;
-    margin-top: 10%;
+    margin-left: 340px;
+    margin-top: 100px;
+    
 }
 
 h1#zakkabout {
