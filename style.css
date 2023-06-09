@@ -1,47 +1,49 @@
 
 
 body {
-    min-height: 500px;
-    max-width: 900px;
+    min-height: auto;
+    max-width: auto;
     
 }
 
 div#zakkheadings {
     display: block;
     position: static;
-    margin-top: 20%;
-    margin-left: 0%;
+    margin-top: 15%;
     text-align: center;
+    text-decoration: solid;
 }
 
 img#zakkpic {
     display: block;
     position: static;
-    margin-left: 320px;
-    margin-top: 90px;  
+    margin-left: 150px;
 }
 
 div#zakklinks {
     display: block;
     position: static;
-    margin-left: 340px;
-    margin-top: 100px;
+    margin-right: 250px;
+    margin-top: -200px;
     
 }
 
-h1#zakkabout {
+div#zakkabout {
     display: block;
     position: static;
     text-align: center;
     margin-top: 10%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 250px;
+   
+    
 }
 
-h1#zakkeducation {
+div#zakkeducation {
     display: block;
     position: static;
     text-align: center;
+    margin-left: 250px;
+    margin-top: 30px;
 }
 
 p {
