@@ -14,10 +14,10 @@ div#zakkheadings {
     text-decoration: solid;
 }
 
-img#zakkpic {
+div#zakkpic {
     display: block;
     position: static;
-    margin-left: 150px;
+    margin-left: 300px;
 }
 
 div#zakklinks {
@@ -28,35 +28,5 @@ div#zakklinks {
     
 }
 
-div#zakkabout {
-    display: block;
-    position: static;
-    text-align: center;
-    margin-top: 10%;
-    margin-left: 250px;
-   
-    
-}
 
-div#zakkeducation {
-    display: block;
-    position: static;
-    text-align: center;
-    margin-left: 250px;
-    margin-top: 30px;
-}
 
-p {
-    display: block;
-    position: static;
-    text-align: center;
-    margin-left: 5%;
-    margin-right: 5%;
-
-}
-
-h4 {
-    display: block;
-    position: static;
-    text-align: center;
-}
