@@ -3,6 +3,8 @@
 body {
     min-height: auto;
     max-width: auto;
+    border-style: double;
+    padding: 60px;
     
 }
 
@@ -17,8 +19,8 @@ div#zakkheadings {
 img#zakkpic {
     display: block;
     position: static;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 245px;
+    margin-right: 30px;
 }
 
 div#zakklinks {
