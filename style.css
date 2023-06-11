@@ -1,43 +1,27 @@
-
 body#zakkbody {
-    padding-left: 10%;
-    padding-right: 10%;
-    width: 70%;
-    border-style: double;
-    padding: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+    margin-left: 300px;
     
 }
 
-div#zakkheadings {  
+div#zakkheadings { 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
     text-align: center;
     border-style: solid; 
 }
 
-div#zakkimages {
-    padding-left: 0%;
-    margin-top: 5%;  
-}
-
 div#zakklinks {
-    padding-left: 10%;
-    margin-top: 0%;   
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 970px;
+    margin-left: 150px;
 }
 
-div#zakkeducation {
-    border: solid;
-    margin-left: 300px;
-    margin-top: -40%;
-    margin-right: 0%;
-    text-align: center;
-    padding: 5%;
-}
 
-div#aboutzakk {
-    border: solid;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    margin-right: 0%;
-    text-align: center;
-    padding: 5%;
-    
-}
+
+
